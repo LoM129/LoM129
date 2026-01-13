@@ -24,7 +24,7 @@ I'm a Professional Developer 👨‍💻 working remotely since 2021 🚀
         <!-- 👇 INSERT SEPARATOR HERE -->
         <tr>
           <td colspan="4" align="center">
-            ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+            ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
           </td>
         </tr>
           <tr>
