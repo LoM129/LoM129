@@ -24,10 +24,10 @@ I'm a Professional Developer 👨‍💻 working remotely since 2021 🚀
     <td align="center">
       <img src="https://skillicons.dev/icons?i=react" width="48"/>
       <img src="https://skillicons.dev/icons?i=vue" width="48"/>
-      <img src="https://skillicons.dev/icons?i=html" width="48"/>
-      <img src="https://skillicons.dev/icons?i=css" width="48"/><br/>
+      <img src="https://skillicons.dev/icons?i=html" width="48"/><br/>
+      <img src="https://skillicons.dev/icons?i=css" width="48"/>
       <img src="https://skillicons.dev/icons?i=js" width="48"/>
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48"/>
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br/>
       <img src="https://skillicons.dev/icons?i=bootstrap" width="48"/>
       <img src="https://skillicons.dev/icons?i=figma" width="48"/>
     </td>
@@ -35,10 +35,10 @@ I'm a Professional Developer 👨‍💻 working remotely since 2021 🚀
     <td align="center">
       <img src="https://skillicons.dev/icons?i=go" width="48"/>
       <img src="https://skillicons.dev/icons?i=nodejs" width="48"/>
-      <img src="https://skillicons.dev/icons?i=python" width="48"/>
-      <img src="https://skillicons.dev/icons?i=php" width="48"/><br/>
+      <img src="https://skillicons.dev/icons?i=python" width="48"/><br/>
+      <img src="https://skillicons.dev/icons?i=php" width="48"/>
       <img src="https://skillicons.dev/icons?i=laravel" width="48"/>
-      <img src="https://skillicons.dev/icons?i=dotnet" width="48"/>
+      <img src="https://skillicons.dev/icons?i=dotnet" width="48"/><br/>
       <img src="https://skillicons.dev/icons?i=mysql" width="48"/>
       <img src="https://skillicons.dev/icons?i=redis" width="48"/>
     </td>
@@ -46,10 +46,10 @@ I'm a Professional Developer 👨‍💻 working remotely since 2021 🚀
     <td align="center">
       <img src="https://skillicons.dev/icons?i=docker" width="48"/>
       <img src="https://skillicons.dev/icons?i=kubernetes" width="48"/>
-      <img src="https://skillicons.dev/icons?i=aws" width="48"/>
-      <img src="https://skillicons.dev/icons?i=nginx" width="48"/><br/>
+      <img src="https://skillicons.dev/icons?i=aws" width="48"/><br/>
+      <img src="https://skillicons.dev/icons?i=nginx" width="48"/>
       <img src="https://skillicons.dev/icons?i=git" width="48"/>
-      <img src="https://skillicons.dev/icons?i=github" width="48"/>
+      <img src="https://skillicons.dev/icons?i=github" width="48"/><br/>
       <img src="https://skillicons.dev/icons?i=linux" width="48"/>
       <img src="https://skillicons.dev/icons?i=wordpress" width="48"/>
     </td>
@@ -57,8 +57,8 @@ I'm a Professional Developer 👨‍💻 working remotely since 2021 🚀
     <td align="center">
       <img src="https://skillicons.dev/icons?i=flutter" width="48"/>
       <img src="https://skillicons.dev/icons?i=swift" width="48"/>
-      <img src="https://skillicons.dev/icons?i=kotlin" width="48"/>
-      <img src="https://skillicons.dev/icons?i=java" width="48"/><br/>
+      <img src="https://skillicons.dev/icons?i=kotlin" width="48"/><br/>
+      <img src="https://skillicons.dev/icons?i=java" width="48"/>
       <img src="https://skillicons.dev/icons?i=react" width="48"/>
     </td>
   </tr>
