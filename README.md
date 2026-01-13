@@ -10,8 +10,8 @@
 - Cloud: Docker, CI/CD
 
 ###⚡ Selected Work
-- 🔹 Project A – short description
-- 🔹 Project B – short description
+- 🔹 Project A – Tournament Pro &  Sports Game Matching Site
+- 🔹 Project B – Go Mastering   &  Golang Backend Sample
 
 ### 🤔How I work
 - Clean architecture
