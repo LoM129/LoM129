@@ -7,7 +7,7 @@ I'm a Professional Developer 👨‍💻 working remotely since 2021 🚀
 <p align="center">
 🌱I focus on building reliable, production-ready systems.</p>
 <p align="center">
-💬 Ask me about MERN, Mobile, Blockchain </p>
+💬 Ask me about Go, MERN, Mobile, Blockchain </p>
 
 ## My Skill Set
 
