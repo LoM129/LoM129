@@ -1,9 +1,9 @@
 <h1 align="center">
-I'm a Professional Developer 👨‍💻 working remotely since 2021 🚀
+I'm a Professional Developer 👨‍💻 working remotely -  friendly🚀
 </h1>
 
 <p align="center">
-🔭Senior Software Engineer with experience since 2021.</p>
+🔭Senior Software Engineer with experience since 2020.</p>
 <p align="center">
 🌱I focus on building reliable, production-ready systems.</p>
 <p align="center">
