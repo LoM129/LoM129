@@ -3,7 +3,7 @@ I'm a Professional Developer 👨‍💻 working remotely -  friendly🚀
 </h1>
 
 <p align="center">
-🔭Senior Software Engineer with experience since 2020.</p>
+🔭Senior Software Engineer with experience since 2016.</p>
 <p align="center">
 🌱I focus on building reliable, production-ready systems.</p>
 <p align="center">
